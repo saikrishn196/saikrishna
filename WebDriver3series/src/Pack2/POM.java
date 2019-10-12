@@ -12,5 +12,4 @@ public class POM {
 	@FindBy(xpath="//*[@id='email']") WebElement FN;
 	@FindBy(xpath="//*[@id='pass']") WebElement FN1;
 	
-	
 }
